@@ -116,4 +116,4 @@ if st.button("Søg ledige tider"):
 
 # Footer
 st.markdown("---")
-st.markdown("Lavet med af CH")
+st.markdown("Lavet af CH")
