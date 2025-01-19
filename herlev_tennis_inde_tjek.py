@@ -76,7 +76,7 @@ def get_tennis_court_data(target_date: datetime) -> List[Dict]:
 # Streamlit app
 st.set_page_config(page_title="Tennis Booking - Herlev", page_icon="🎾")
 
-st.title("🎾 Tennis Booking - Herlev")
+st.title("🎾 Tennis - Herlev")
 st.subheader("Find ledige indendørs tennisbaner")
 
 # Dato vælger
